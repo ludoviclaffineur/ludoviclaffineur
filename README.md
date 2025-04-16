@@ -1,13 +1,53 @@
-I am an enthusiastic Belgian who loves to build and create things. I truly believe that being empathic and direct to your peers is a gift and that we should not be too focus to do things only for a bigger purpose -- *Enjoy the ride*.
+# 👋 Hey, I'm Ludo!
 
-I studied engineering at I.S.I.B. in Brussels in 2013 and my first work experience was a 2 year R&D project in the field of network sonification [Laras](http://laras.be). The main goal was to create sound from network packets in order to have a direct audio picture of what's happening on the network infrastructure (more to come soon).
+I'm a passionate Belgian engineer, entrepreneur and product builder who believes in **technology that serves people**.
 
+Currently CTO & CPO at [Govrn](https://govrn.com), I’m building the next-generation **AI-driven board management platform**. I believe that the right mix of **cutting-edge technology**, **user experience**, and **pragmatic execution** can truly transform how decisions are made at the top of organizations.
 
-In September 2015 I started to work for [Odoo](https://odoo.com) as a client solution developer where I was responsible to develop and ship customisations for the customers. I learnt practices to develop value to custommers and only focuse on what matters for him -- The excellence of services lies in our capacity to deliver quality fast and I truly believe that business analysis and client management are key to achieve that.
+---
 
+## 🚀 What drives me
 
-In September 2017 I got the opportunity to join at [Skipr](https://skipr.co) (even before it was created) as developer in order to build an app that would enable everyone to move everywhere. That is the first time that I am part of building a product from scratch with all the validation of intermediate steps. We went from 1 to 30 people in two years and are live in Belgium and ready to spread in Europe.
+- 🧠 **AI enthusiast**: I'm deeply curious about how artificial intelligence can boost our creativity, speed up execution, and simplify complex workflows. I love embedding smart assistants and automation into code and websites — without ever compromising on **human value**.
+  
+- 🛠 **Builder mindset**: I’ve co-built products from scratch, from the first commit to scaling a dev team and shipping to thousands of users. Whether it’s backend in Go or Python, UIs in React/Flutter, or infrastructure on K8s — I care about the full picture.
+  
+- 💡 **Product-first**: I believe that engineering is here to **serve product** — not the other way around. I thrive in environments where we ship fast, validate ideas, and iterate with users.
 
+---
 
-Our tech stack at skipr is based on go (go-micro), python (django), K8s, flutter (!). We are always keen to meet new talented people so don't hesitate to reach me!
+## 🧪 Past adventures
 
+- 🎓 Studied engineering at **I.S.I.B. Brussels** (2013)
+- 🔊 First project: [Laras](http://laras.be) — turning network packets into **sound** through real-time **network sonification**
+- 🧩 2015–2017: [Odoo](https://odoo.com) — building custom solutions and learning the art of delivering fast value to clients
+- 🌍 2017–2020: [Skipr](https://skipr.co) — joined at day 0 to build a mobility platform; grew from **0 to 30 people** in 2 years
+
+---
+
+## 🧰 Tech I enjoy
+
+- **Languages**: Go, Python, TypeScript, Kotlin  
+- **Frameworks**: React, Flutter, Django  
+- **Tools**: Kubernetes, Astro, Apryse, AI assistants  
+- **Focus**: Fast iterations, scalability, UX polish, and developer experience
+
+---
+
+## 🧠 Projects I love working on
+
+- 🧭 [Govrn](https://govrn.com) – helping boards of directors run better meetings, make smarter decisions, and embrace AI-powered workflows
+- 🧩 [Foxyline](https://foxyline.ai) – launching an AI-infused web agency, where design & performance meet automation
+
+---
+
+## 🤝 Let’s connect
+
+Whether you're into product, tech, design, or just want to discuss AI, feel free to connect or shoot me a message!
+
+📬 **ludo [at] govrn [dot] com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/votreprofil) • [Govrn](https://govrn.com) • [Foxyline](https://foxyline.ai)
+
+---
+
+> *Empathy and clarity are underrated superpowers. Let’s build meaningful things — and enjoy the ride.* 🚲
