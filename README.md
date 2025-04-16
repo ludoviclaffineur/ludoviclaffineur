@@ -45,7 +45,7 @@ Currently CTO & CPO at [Govrn](https://govrn.com), I’m building the next-gener
 
 Whether you're into product, tech, design, or just want to discuss AI, feel free to connect or shoot me a message!
 
-📬 **ludo [at] govrn [dot] com**  
+📬 **lla [at] govrn [dot] com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/llaffineur/) • [Govrn](https://govrn.com) • [Foxyline](https://foxyline.ai)
 
 ---
